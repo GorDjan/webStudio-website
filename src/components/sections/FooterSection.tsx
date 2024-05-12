@@ -9,7 +9,7 @@ function FooterSection() {
           <img src="/images/footer_logo.png" alt="footer logo" />
         </div>
         <div className="text-lightBlue text-[1rem] font-serif">
-          © 2020 Epixelab. All rights reserved.
+          © 2024 Epixelab. All rights reserved.
         </div>
         <div className="flex gap-4">
           <p className="text-lightBlue text-[1rem]">Portfolio</p>
